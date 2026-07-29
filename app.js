@@ -134,3 +134,6 @@ function greet(name) {
 }
 
 greet("Alice");
+greet("Ruha");
+greet("Marwan");
+greet("Mohammad");
