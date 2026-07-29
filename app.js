@@ -107,8 +107,12 @@ console.log(fullName)
 let multiTypes1 = 2 + 3 + "5"; //55
 let multiTypes2 = 2 + 3 + 4 + 6 + "5";//155
 let multiTypes3 = "2" + 3 + 4 + 6 + 7 + "5";//234675
-console.log(multiTypes1)
-console.log(multiTypes2)
+console.log(multiTypes1) 
+console.log(multiTypes2) 
+console.log(multiTypes3)
+
+console.log(multiTypes3)
+
 console.log(multiTypes3)
 
 //you can
